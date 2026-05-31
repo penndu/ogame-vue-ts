@@ -92,6 +92,11 @@ All game data is automatically encrypted using AES encryption before being store
 
 The application supports full theme customization through Tailwind CSS variables defined in `src/style.css`. You can easily switch between light and dark modes.
 
+## Documentation
+
+- [Docker Deployment Guide](DOCKER.md)
+- [Game Reference Manual](ogame-reference.md) - Complete data for buildings, technologies, ships, defense, officers, etc.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.

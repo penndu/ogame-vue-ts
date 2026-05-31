@@ -92,6 +92,11 @@ Alle Spieldaten werden automatisch mit AES-Verschlüsselung verschlüsselt, bevo
 
 Die Anwendung unterstützt vollständige Theme-Anpassung durch Tailwind CSS-Variablen, die in `src/style.css` definiert sind. Du kannst einfach zwischen hellem und dunklem Modus wechseln.
 
+## Dokumentation
+
+- [Docker-Bereitstellungsanleitung](DOCKER.md)
+- [Spielreferenzhandbuch](ogame-reference.md) - Vollständige Daten zu Gebäuden, Technologien, Schiffen, Verteidigung, Offizieren usw.
+
 ## Mitwirken
 
 Beiträge sind willkommen! Bitte zögere nicht, Issues oder Pull Requests einzureichen.

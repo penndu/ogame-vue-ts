@@ -92,6 +92,11 @@ pnpm preview
 
 應用支援通過 `src/style.css` 中定義的 Tailwind CSS 變數進行完整的主題自定義。您可以輕鬆地在淺色和深色模式之間切換。
 
+## 文件
+
+- [Docker 部署指南](DOCKER.md)
+- [遊戲參考手冊](ogame-reference.md) - 建築、科技、艦船、防禦、軍官等完整資料
+
 ## 貢獻
 
 歡迎貢獻！請隨時提交 issue 或 pull request。

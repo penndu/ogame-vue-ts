@@ -92,6 +92,11 @@ Todos los datos del juego se encriptan automáticamente usando AES antes de alma
 
 La aplicación soporta personalización completa de temas a través de variables CSS de Tailwind definidas en `src/style.css`. Puedes cambiar fácilmente entre modo claro y oscuro.
 
+## Documentación
+
+- [Guía de despliegue Docker](DOCKER.md)
+- [Manual de referencia del juego](ogame-reference.md) - Datos completos de edificios, tecnologías, naves, defensa, oficiales, etc.
+
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! No dudes en enviar issues o pull requests.
